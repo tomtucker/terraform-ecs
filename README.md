@@ -2,6 +2,8 @@
 
 This project demonstrates the use of Terraform to deploy a 3 tier dynamic web application in AWS Elastic Container Service (ECS) with an RDS backend.
 
+![Diagram](dynamic-website-ecs.png)
+
 It showcases the use of Terraform modules and variables to provide reusable, data driven components for the Infrastructure as Code (IaC) deployment. The specifics of the deployment care configurable through an (unpublished) `terraforms.tfvars` file which sets values passed to the Terraform modules through the main code file.
 
 The modules are sourced from a separate, private, GitHub repository or can be sourced from local storage allowing separate maintenance and versioning from individual projects.
