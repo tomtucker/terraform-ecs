@@ -146,6 +146,6 @@ This infrastructure solution provides:
 
 ---
 
-**Repository:** [github.com/tomtucker/terraform-ec2](https://github.com/tomtucker/terraform-ec2)
+**Repository:** [github.com/tomtucker/terraform-ecs](https://github.com/tomtucker/terraform-ecs)
 
 **Technologies:** Terraform, AWS (VPC, ECS, RDS, ALB, Route 53, S3, IAM, ACM), Docker, PHP, Laravel, MySQL

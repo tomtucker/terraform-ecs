@@ -1,4 +1,4 @@
-# terraform-ec2
+# terraform-ecs
 
 This is a **Terraform Infrastructure as Code (IaC)** project that automates the deployment of a **3-tier dynamic web application** on AWS using **Elastic Container Service (ECS)** with an **RDS database backend**.
 
